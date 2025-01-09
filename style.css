@@ -49,7 +49,7 @@
 #animated-emoji {
     font-size: 90px; 
     animation-name: emoji; 
-    animation-duration: 900.00001s; 
+    animation-duration: 10s; 
     animation-iteration-count: infinite;
     animation-timing-function: linear; 
 }
